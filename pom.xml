@@ -19,7 +19,7 @@
             <version>3.2.15.RELEASE</version>
         </dependency>
 
-        <!-- Struts 2 -->
+        <!-- Struts 2 yo -->
         <dependency>
             <groupId>org.apache.struts</groupId>
             <artifactId>struts2-core</artifactId>
